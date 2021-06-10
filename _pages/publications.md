@@ -20,9 +20,9 @@ author_profile: true
 ## 2021
 
 ### Conferences
-* __Pinciroli, R.__, Smith, C. U., & Trubiani, C. (2021). QN-based Modeling and Analysis of Software Performance Antipatterns for Cyber-Physical Systems. In _ACM/SPEC International Conference on Performance Engineering (ICPE 21)_, pp. 93-104.<br/>[DOI](doi:10.1145/3427921.3450251) [PDF]()
+* __Pinciroli, R.__, Smith, C. U., & Trubiani, C. (2021). QN-based Modeling and Analysis of Software Performance Antipatterns for Cyber-Physical Systems. In _ACM/SPEC International Conference on Performance Engineering (ICPE 21)_, pp. 93-104.<br/>[DOI](https://dx.doi.org/10.1145/3427921.3450251) [PDF]()
 
-* __Pinciroli, R.__, & Trubiani, C. (2021). Model-based Performance Analysis for Architecting Cyber-Physical Dynamic Spaces. In _IEEE 18th International Conference on Software Architecture (ICSA 21)_, pp. 104-114.<br/>[DOI](doi:10.1109/ICSA51549.2021.00018) [PDF]()
+* __Pinciroli, R.__, & Trubiani, C. (2021). Model-based Performance Analysis for Architecting Cyber-Physical Dynamic Spaces. In _IEEE 18th International Conference on Software Architecture (ICSA 21)_, pp. 104-114.<br/>[DOI](https://dx.doi.org/10.1109/ICSA51549.2021.00018) [PDF]()
 
 
 
@@ -32,13 +32,13 @@ author_profile: true
 
 * __Pinciroli, R.__, Ali, A., Yan, F., & Smirni, E. (2020). CEDULE+: Resource Management for Burstable Cloud Instances Using Predictive Analytics. _IEEE Transactions on Network and Service Management_.<br/>[DOI](https://dx.doi.org/10.1109/TNSM.2020.3039942) [PDF]()
 
-* Antonelli, F., Cortellessa, V., Gribaudo, M., __Pinciroli, R.__, Trivedi, K. S., & Trubiani, C. (2020). Analytical modeling of performance indices under epistemic uncertainty applied to cloud computing systems. _Future Generation Computer Systems_, 102, pp. 746-761.<br/>[DOI](doi:10.1016/j.future.2019.09.006) [PDF]()
+* Antonelli, F., Cortellessa, V., Gribaudo, M., __Pinciroli, R.__, Trivedi, K. S., & Trubiani, C. (2020). Analytical modeling of performance indices under epistemic uncertainty applied to cloud computing systems. _Future Generation Computer Systems_, 102, pp. 746-761.<br/>[DOI](https://dx.doi.org/10.1016/j.future.2019.09.006) [PDF]()
 
 ### Conferences
 
-* Ali, A., __Pinciroli, R.__, Yan, F., & Smirni, E. (2020). Batch: machine learning inference serving on serverless platforms with adaptive batching. In _International Conference for High Performance Computing, Networking, Storage and Analysis (SC 20)_, pp. 972-986.<br/>[DOI](doi:10.5555/3433701.3433792) [PDF]()
+* Ali, A., __Pinciroli, R.__, Yan, F., & Smirni, E. (2020). Batch: machine learning inference serving on serverless platforms with adaptive batching. In _International Conference for High Performance Computing, Networking, Storage and Analysis (SC 20)_, pp. 972-986.<br/>[DOI](https://dx.doi.org/10.5555/3433701.3433792) [PDF]()
 
-* Yang, L., Schmedding, A., __Pinciroli, R.__, & Smirni, E. (2020). Simulating COVID-19 containment measures using the South Korean patient data. In _18th Conference on Embedded Networked Sensor Systems (SenSys 20)_, pp. 782-783.<br/>[DOI](doi:10.1145/3384419.3430610) [PDF]()
+* Yang, L., Schmedding, A., __Pinciroli, R.__, & Smirni, E. (2020). Simulating COVID-19 containment measures using the South Korean patient data. In _18th Conference on Embedded Networked Sensor Systems (SenSys 20)_, pp. 782-783.<br/>[DOI](https://dx.doi.org/10.1145/3384419.3430610) [PDF]()
 
 
 
@@ -46,11 +46,11 @@ author_profile: true
 
 ### Conferences
 
-* Ali, A., __Pinciroli, R.__, Yan, F., & Smirni, E. (2019). It's not a Sprint, it's a Marathon: Stretching Multi-resource Burstable Performance in Public Clouds (industry track). In _20th International Middleware Conference Industrial Track (Middleware 19)_, pp. 36-42.<br/>[DOI](doi:10.1145/3366626.3368130) [PDF]()
+* Ali, A., __Pinciroli, R.__, Yan, F., & Smirni, E. (2019). It's not a Sprint, it's a Marathon: Stretching Multi-resource Burstable Performance in Public Clouds (industry track). In _20th International Middleware Conference Industrial Track (Middleware 19)_, pp. 36-42.<br/>[DOI](https://dx.doi.org/10.1145/3366626.3368130) [PDF]()
 
 ### Chapters
 
-* Cerotti, D., Gribaudo, M., __Pinciroli, R.__, & Serazzi, G. (2019). Modeling Techniques for Pool Depletion Systems. In _Systems Modeling: Methodologies and Tools_, pp. 79-94.<br/>[DOI](doi:10.1007/978-3-319-92378-9_6) [PDF]()
+* Cerotti, D., Gribaudo, M., __Pinciroli, R.__, & Serazzi, G. (2019). Modeling Techniques for Pool Depletion Systems. In _Systems Modeling: Methodologies and Tools_, pp. 79-94.<br/>[DOI](https://dx.doi.org/10.1007/978-3-319-92378-9_6) [PDF]()
 
 
 
@@ -58,11 +58,11 @@ author_profile: true
 
 ### Journal
 
-* Gribaudo, M., __Pinciroli, R.__, & Trivedi, K. (2018). Epistemic uncertainty propagation in power models. _Electronic Notes in Theoretical Computer Science_, 337, pp. 67-86.<br/>[DOI](doi:10.1016/j.entcs.2018.03.034) [PDF]()
+* Gribaudo, M., __Pinciroli, R.__, & Trivedi, K. (2018). Epistemic uncertainty propagation in power models. _Electronic Notes in Theoretical Computer Science_, 337, pp. 67-86.<br/>[DOI](https://dx.doi.org/10.1016/j.entcs.2018.03.034) [PDF]()
 
 ### Conferences
 
-* Ali, A., __Pinciroli, R.__, Yan, F., & Smirni, E. (2018). CEDULE: A scheduling framework for burstable performance in cloud computing. In _IEEE International Conference on Autonomic Computing (ICAC 18)_, pp. 141-150.<br/>[DOI](doi:10.1109/ICAC.2018.00024) [PDF]()
+* Ali, A., __Pinciroli, R.__, Yan, F., & Smirni, E. (2018). CEDULE: A scheduling framework for burstable performance in cloud computing. In _IEEE International Conference on Autonomic Computing (ICAC 18)_, pp. 141-150.<br/>[DOI](https://dx.doi.org/10.1109/ICAC.2018.00024) [PDF]()
 
 
 
@@ -70,15 +70,15 @@ author_profile: true
 
 ### Journals
 
-* __Pinciroli, R.__, & Distefano, S. (2017). Characterization and evaluation of mobile crowdsensing performance and energy indicators. _ACM SIGMETRICS Performance Evaluation Review_, 44(4), pp. 80-90.<br/>[DOI](doi:10.1145/3092819.3092829) [PDF]()
+* __Pinciroli, R.__, & Distefano, S. (2017). Characterization and evaluation of mobile crowdsensing performance and energy indicators. _ACM SIGMETRICS Performance Evaluation Review_, 44(4), pp. 80-90.<br/>[DOI](https://dx.doi.org/10.1145/3092819.3092829) [PDF]()
 
 ### Conferences
 
-* __Pinciroli, R.__, Gribaudo, M., & Serazzi, G. (2017). Modeling multiclass task-based applications on heterogeneous distributed environments. In _International Conference on Analytical and Stochastic Modeling Techniques and Applications (ASMTA 17)_, pp. 166-180.<br/>[DOI](doi:10.1007/978-3-319-61428-1_12) [PDF]()
+* __Pinciroli, R.__, Gribaudo, M., & Serazzi, G. (2017). Modeling multiclass task-based applications on heterogeneous distributed environments. In _International Conference on Analytical and Stochastic Modeling Techniques and Applications (ASMTA 17)_, pp. 166-180.<br/>[DOI](https://dx.doi.org/10.1007/978-3-319-61428-1_12) [PDF]()
 
-* __Pinciroli, R.__, Bobbio, A., Bolchini, C., Cerotti, D., Gribaudo, M., Miele, A., & Trivedi, K. (2017). Epistemic uncertainty propagation in a weibull environment for a two-core system-on-chip. In _2nd International Conference on System Reliability and Safety (ICSRS 17)_, pp. 516-520.<br/>[DOI](doi:10.1109/ICSRS.2017.8272875) [PDF]()
+* __Pinciroli, R.__, Bobbio, A., Bolchini, C., Cerotti, D., Gribaudo, M., Miele, A., & Trivedi, K. (2017). Epistemic uncertainty propagation in a weibull environment for a two-core system-on-chip. In _2nd International Conference on System Reliability and Safety (ICSRS 17)_, pp. 516-520.<br/>[DOI](https://dx.doi.org/10.1109/ICSRS.2017.8272875) [PDF]()
 
-* __Pinciroli, R.__, Gribaudo, M., Roveri, M., & Serazzi, G. (2017). Capacity planning of fog computing infrastructures for smart monitoring. In _Workshop on New Frontiers in Quantitative Methods in Informatics (InfQ 17)_, pp. 72-81.<br/>[DOI](doi:10.1007/978-3-319-91632-3_6) [PDF]()
+* __Pinciroli, R.__, Gribaudo, M., Roveri, M., & Serazzi, G. (2017). Capacity planning of fog computing infrastructures for smart monitoring. In _Workshop on New Frontiers in Quantitative Methods in Informatics (InfQ 17)_, pp. 72-81.<br/>[DOI](https://dx.doi.org/10.1007/978-3-319-91632-3_6) [PDF]()
 
 
 
@@ -86,13 +86,13 @@ author_profile: true
 
 ### Conferences
 
-* Cerotti, D., Gribaudo, M., __Pinciroli, R.__, & Serazzi, G. (2016). Stochastic analysis of energy consumption in pool depletion systems. In _International GI/ITG Conference on Measurement, Modelling, and Evaluation of Computing Systems and Dependability and Fault Tolerance (MMB&DFT 2016)_, pp. 25-39.<br/>[DOI](doi:10.1007/978-3-319-31559-1_4) [PDF]()
+* Cerotti, D., Gribaudo, M., __Pinciroli, R.__, & Serazzi, G. (2016). Stochastic analysis of energy consumption in pool depletion systems. In _International GI/ITG Conference on Measurement, Modelling, and Evaluation of Computing Systems and Dependability and Fault Tolerance (MMB&DFT 2016)_, pp. 25-39.<br/>[DOI](https://dx.doi.org/10.1007/978-3-319-31559-1_4) [PDF]()
 
-* Cerotti, D., Gribaudo, M., __Pinciroli, R.__, & Serazzi, G. (2016). Optimal population mix in pool depletion systems with two-class workload. In _10th International Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 16)_, pp. 11-18.<br/>[DOI](doi:10.4108/eai.25-10-2016.2266566) [PDF]()
+* Cerotti, D., Gribaudo, M., __Pinciroli, R.__, & Serazzi, G. (2016). Optimal population mix in pool depletion systems with two-class workload. In _10th International Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 16)_, pp. 11-18.<br/>[DOI](https://dx.doi.org/10.4108/eai.25-10-2016.2266566) [PDF]()
 
-* __Pinciroli, R.__, Trivedi, K., & Bobbio, A. (2016). Parametric sensitivity and uncertainty propagation in dependability models. In _10th International Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 16)_, pp. 44-51.<br/>[DOI](doi:10.4108/eai.25-10-2016.2266529) [PDF]()
+* __Pinciroli, R.__, Trivedi, K., & Bobbio, A. (2016). Parametric sensitivity and uncertainty propagation in dependability models. In _10th International Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 16)_, pp. 44-51.<br/>[DOI](https://dx.doi.org/10.4108/eai.25-10-2016.2266529) [PDF]()
 
-* __Pinciroli, R.__, & Distefano, S. (2016). Extending Queuing Networks to Assess Mobile CrowdSensing Application Performance. In _10th International Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 16)_, pp. 255-262.<br/>[DOI](doi:10.4108/eai.25-10-2016.2266899) [PDF]()
+* __Pinciroli, R.__, & Distefano, S. (2016). Extending Queuing Networks to Assess Mobile CrowdSensing Application Performance. In _10th International Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 16)_, pp. 255-262.<br/>[DOI](https://dx.doi.org/10.4108/eai.25-10-2016.2266899) [PDF]()
 
 
 
@@ -100,7 +100,7 @@ author_profile: true
 
 ### Conferences
 
-* Cerotti, D., Gribaudo, M., Piazzolla, P., __Pinciroli, R.__, & Serazzi, G. (2015). Modeling power consumption in multicore cpus with multithreading and frequency scaling. In _Information Sciences and Systems 2015 (ISCIS 15)_, pp. 81-90.<br/>[DOI](doi:10.1007/978-3-319-22635-4_7) [PDF]()
+* Cerotti, D., Gribaudo, M., Piazzolla, P., __Pinciroli, R.__, & Serazzi, G. (2015). Modeling power consumption in multicore cpus with multithreading and frequency scaling. In _Information Sciences and Systems 2015 (ISCIS 15)_, pp. 81-90.<br/>[DOI](https://dx.doi.org/10.1007/978-3-319-22635-4_7) [PDF]()
 
 
 
@@ -108,5 +108,5 @@ author_profile: true
 
 ### Conferences
 
-* Cerotti, D., Gribaudo, M., Piazzolla, P., __Pinciroli, R.__, & Serazzi, G. (2014). Multi-class queuing networks models for energy optimization. In _8th International Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 14)_, pp. 98-105.<br/>[DOI](doi:10.4108/icst.Valuetools.2014.258214) [PDF]()
+* Cerotti, D., Gribaudo, M., Piazzolla, P., __Pinciroli, R.__, & Serazzi, G. (2014). Multi-class queuing networks models for energy optimization. In _8th International Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 14)_, pp. 98-105.<br/>[DOI](https://dx.doi.org/10.4108/icst.Valuetools.2014.258214) [PDF]()
 
