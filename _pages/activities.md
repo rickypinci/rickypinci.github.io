@@ -5,12 +5,13 @@ excerpt: "My activities"
 author_profile: true
 ---
 
+
+
 Teaching
 =====
-I have been teacher and teaching assistant for Ph.D., M.Sc., and B.Sc. classes.
-
 ### 2020/2021
-* Formal Methods at Work, held by Dr. Trubiani C. and Dr. Pinciroli R.
+* Formal Methods @ Work at Gran Sasso Science Institute ([link](https://sites.google.com/gssi.it/csgssi/ph-d-program/2020-2021?authuser=0))<br/>
+Syllabus: Stochastic Process Algebras, Markov Decision Processes, Timed Automata, Queueing Networks
 
 
 
