@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Riccardo Pinciroli"
   avatar           : "profile.png"
   bio              : "I am a Postdoc Fellow at the Gran Sasso Science Institute."
   location         : "L'Aquila"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.it/citations?user=C-QlkhQAAAAJ&hl=it&authuser=1"
-  email            : "test@email.com"
+  email            : "riccardo.pinciroli@gssi.it"
   researchgate     : "https://www.researchgate.net/profile/Riccardo-Pinciroli"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
+  linkedin         : "https://www.linkedin.com/in/riccardopinciroli/"
   orcid            : "https://orcid.org/0000-0003-3375-7256"
   pinterest        :
   soundcloud       :
