@@ -4,8 +4,8 @@ title: "Research Interests"
 excerpt: "My research activity"
 author_profile: true
 redirect_from: 
-  - "/research/"
-  - "/research.html"
+  - "/interests/"
+  - "/interests.html"
 ---
 
 My research focuses on performance evaluation, cloud computing, cyber-physical systems, and uncertainty propagation.
