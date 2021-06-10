@@ -1,5 +1,5 @@
 ---
-title: "Activities"
+title: ""
 permalink: /activities/
 excerpt: "My activities"
 author_profile: true
