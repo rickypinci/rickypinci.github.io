@@ -1,19 +1,11 @@
 ---
-title: ""
+title: "Activities"
 permalink: /activities/
 excerpt: "My activities"
 author_profile: true
 ---
 
-
-
-Teaching
-=====
-### 2020/2021
-* Formal Methods @ Work at Gran Sasso Science Institute ([link](https://sites.google.com/gssi.it/csgssi/ph-d-program/2020-2021?authuser=0))<br/>
-Syllabus: Stochastic Process Algebras, Markov Decision Processes, Timed Automata, Queueing Networks
-
-
+I served as PC member of conferences and workshops in the area of performance and quantitative system analysis.
 
 Program Committee
 =====
