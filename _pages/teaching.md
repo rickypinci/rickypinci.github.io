@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 permalink: /teaching/
-excerpt: "My activities"
+excerpt: "Teaching"
 author_profile: true
 ---
 
