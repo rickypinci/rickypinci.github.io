@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I have been a Postdoctoral Fellow at the Computer Science Department of the Gran Sasso Science Institute – GSSI (Italy) since October 2020.
+I have been a Postdoctoral Fellow at the Computer Science Department of the Gran Sasso Science Institute (Italy) since October 2020.
 
 I received my M.Sc. in Computer Engineering (2014) and my Ph.D. in Information Technology (2018) from Politecnico di Milano. In my doctoral dissertation, I analyzed the energy efficiency of data centers by employing performance evaluation techniques. Before joining the GSSI, I was a Postdoctoral Fellow at William & Mary (USA).
 
