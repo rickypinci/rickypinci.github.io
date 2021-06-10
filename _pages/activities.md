@@ -6,10 +6,15 @@ author_profile: true
 ---
 
 # Teaching
+I have been teacher and teaching assistant for Ph.D., M.Sc., and B.Sc. classes.
+
+2020/2021
+=====
+* Formal Methods at Work, held by Dr. Trubiani C. and Dr. Pinciroli R.
 
 
 
-# Service
+# Services
 I served as a PC member of conferences and workshops in the area of performance and quantitative system analysis. I have also been a reviewer for journals in my area of expertise.
 
 Conferences
