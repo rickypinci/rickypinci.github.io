@@ -1,6 +1,6 @@
 ---
-permalink: /research/
-title: "Research"
+permalink: /interests/
+title: "Research Interests"
 excerpt: "My research activity"
 author_profile: true
 redirect_from: 
