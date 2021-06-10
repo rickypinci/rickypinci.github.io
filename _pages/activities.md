@@ -15,11 +15,8 @@ Syllabus: Stochastic Process Algebras, Markov Decision Processes, Timed Automata
 
 
 
-Services
+Program Committee
 =====
-I served as a PC member of conferences and workshops in the area of performance and quantitative system analysis. I have also been a reviewer for journals in my area of expertise.
-
-### Conferences
 * International Conference on Distributed Computing Systems, Cloud Computing and Data Centers Track ([ICDCS 2021](https://icdcs2021.us))
 * International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems ([MASCOTS 2020](http://mascots20.iitis.pl/), [MASCOTS 2021](https://mascots.iitis.pl/))
 * International Conference on Performance Engineering ([ICPE 2021 – AET](https://icpe2021.spec.org/calls/artifact-evaluation-track/))
@@ -27,7 +24,8 @@ I served as a PC member of conferences and workshops in the area of performance 
 * International Conference on JointCloud Computing ([JCC 2021](https://jointcloud.cloud/))
 * International Workshop on Energy-Efficient Data Centres ([E2DC 2021](https://e2dc.eu/))
 
-### Journals
+Review Activities
+=====
 * IEEE Transactions on Cloud Computing ([link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245519))
 * IEEE Transactions on Network and Service Management ([link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028))
 * IEEE Transactions on Systems, Man, and Cybernetics: Systems ([link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021))
