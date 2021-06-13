@@ -1,7 +1,7 @@
 ---
 title: "Research Interests"
 permalink: /interests/
-excerpt: "My research interests"
+<!--excerpt: "My research interests"-->
 author_profile: true
 ---
 
