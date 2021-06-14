@@ -108,5 +108,5 @@ author_profile: true
 
 ### Conferences
 
-* Cerotti, D., Gribaudo, M., Piazzolla, P., __Pinciroli, R.__, and Serazzi, G. (2014). Multi-class queuing networks models for energy optimization. In _8th International Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 14)_, pp. 98-105.<br/>[DOI](https://dx.doi.org/10.4108/icst.Valuetools.2014.258214) - [PDF](/404.md) - [BibTeX](/404.md)
+* Cerotti, D., Gribaudo, M., Piazzolla, P., __Pinciroli, R.__, and Serazzi, G. (2014). Multi-class queuing networks models for energy optimization. In _8th International Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 14)_, pp. 98-105.<br/>[DOI](https://dx.doi.org/10.4108/icst.Valuetools.2014.258214) - [PDF](https://dl.acm.org/doi/pdf/10.4108/icst.Valuetools.2014.258214){:target="_blank"} - [BibTeX](/404.md)
 
