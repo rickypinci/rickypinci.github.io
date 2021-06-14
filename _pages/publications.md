@@ -20,7 +20,7 @@ author_profile: true
 ## 2021
 
 ### Conferences
-* __Pinciroli, R.__, Smith, C. U., and Trubiani, C. (2021). QN-based Modeling and Analysis of Software Performance Antipatterns for Cyber-Physical Systems. In _ACM/SPEC International Conference on Performance Engineering (ICPE 21)_, pp. 93-104.<br/>[DOI](https://dx.doi.org/10.1145/3427921.3450251){:target="_blank"} - [PDF](/404.md) - [BibTeX](/bibtex/pinciroli2021qn)
+* __Pinciroli, R.__, Smith, C. U., and Trubiani, C. (2021). QN-based Modeling and Analysis of Software Performance Antipatterns for Cyber-Physical Systems. In _ACM/SPEC International Conference on Performance Engineering (ICPE 21)_, pp. 93-104.<br/>[DOI](https://dx.doi.org/10.1145/3427921.3450251){:target="_blank"} - [PDF](/404.md) - [BibTeX](/bibtex/pinciroli2021qn.html)
 
 * __Pinciroli, R.__, and Trubiani, C. (2021). Model-based Performance Analysis for Architecting Cyber-Physical Dynamic Spaces. In _IEEE 18th International Conference on Software Architecture (ICSA 21)_, pp. 104-114.<br/>[DOI](https://dx.doi.org/10.1109/ICSA51549.2021.00018){:target="_blank"} - [PDF](/404.md) - [BibTeX](/404.md)
 
