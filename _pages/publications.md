@@ -21,7 +21,7 @@ author_profile: true
 
 ### Journals
 
-* __Pinciroli, R.__, Ali, A., Yan, F., and Smirni, E. (2020). "CEDULE+: Resource Management for Burstable Cloud Instances Using Predictive Analytics". _IEEE Transactions on Network and Service Management_.<br/>[DOI](https://dx.doi.org/10.1109/TNSM.2020.3039942) - [PDF](/404.md) - [BibTeX](/bibtex/pinciroli2021cedule+.html){:target="_blank"}
+* __Pinciroli, R.__, Ali, A., Yan, F., and Smirni, E. (2021). "CEDULE+: Resource Management for Burstable Cloud Instances Using Predictive Analytics". _IEEE Transactions on Network and Service Management_.<br/>[DOI](https://dx.doi.org/10.1109/TNSM.2020.3039942){:target="_blank"} - [PDF](/404.md) - [BibTeX](/bibtex/pinciroli2021cedule+.html){:target="_blank"}
 
 ### Conferences
 * __Pinciroli, R.__, Smith, C. U., and Trubiani, C. (2021). "QN-based Modeling and Analysis of Software Performance Antipatterns for Cyber-Physical Systems". In _ACM/SPEC International Conference on Performance Engineering (ICPE 21)_, pp. 93-104.<br/>[DOI](https://dx.doi.org/10.1145/3427921.3450251){:target="_blank"} - [PDF](/404.md) - [BibTeX](/bibtex/pinciroli2021qn.html){:target="_blank"}
