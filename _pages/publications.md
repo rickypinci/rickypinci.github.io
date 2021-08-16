@@ -20,9 +20,9 @@ author_profile: true
 ## 2021
 
 ### Conferences
-* __Pinciroli, R.__, Smith, C. U., and Trubiani, C. (2021). "QN-based Modeling and Analysis of Software Performance Antipatterns for Cyber-Physical Systems". In _ACM/SPEC International Conference on Performance Engineering (ICPE 21)_, pp. 93-104.<br/>[DOI](https://dx.doi.org/10.1145/3427921.3450251){:target="_blank"} - [PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2021_ICPE_Pinciroli.pdf) - [BibTeX](/bibtex/pinciroli2021qn.html){:target="_blank"}
+* __Pinciroli, R.__, Smith, C. U., and Trubiani, C. (2021). "QN-based Modeling and Analysis of Software Performance Antipatterns for Cyber-Physical Systems". In _ACM/SPEC International Conference on Performance Engineering (ICPE 21)_, pp. 93-104.<br/>[DOI](https://dx.doi.org/10.1145/3427921.3450251){:target="_blank"} - [PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2021_ICPE_Pinciroli.pdf){:target="_blank"} - [BibTeX](/bibtex/pinciroli2021qn.html){:target="_blank"}
 
-* __Pinciroli, R.__, and Trubiani, C. (2021). "Model-based Performance Analysis for Architecting Cyber-Physical Dynamic Spaces". In _IEEE 18th International Conference on Software Architecture (ICSA 21)_, pp. 104-114.<br/>[DOI](https://dx.doi.org/10.1109/ICSA51549.2021.00018){:target="_blank"} - [PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2021_ICSA_Pinciroli.pdf) - [BibTeX](/bibtex/pinciroli2021model.html){:target="_blank"}
+* __Pinciroli, R.__, and Trubiani, C. (2021). "Model-based Performance Analysis for Architecting Cyber-Physical Dynamic Spaces". In _IEEE 18th International Conference on Software Architecture (ICSA 21)_, pp. 104-114.<br/>[DOI](https://dx.doi.org/10.1109/ICSA51549.2021.00018){:target="_blank"} - [PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2021_ICSA_Pinciroli.pdf){:target="_blank"} - [BibTeX](/bibtex/pinciroli2021model.html){:target="_blank"}
 
 
 
@@ -36,9 +36,9 @@ author_profile: true
 
 ### Conferences
 
-* Ali, A.§, __Pinciroli, R.__§, Yan, F., and Smirni, E. (2020). "Batch: machine learning inference serving on serverless platforms with adaptive batching". In _International Conference for High Performance Computing, Networking, Storage and Analysis (SC 20)_, pp. 972-986.<br/>[DOI](https://dx.doi.org/10.5555/3433701.3433792){:target="_blank"} - [PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2020_SC_Ali.pdf) - [BibTeX](/bibtex/ali2020batch.html){:target="_blank"}
+* Ali, A.§, __Pinciroli, R.__§, Yan, F., and Smirni, E. (2020). "Batch: machine learning inference serving on serverless platforms with adaptive batching". In _International Conference for High Performance Computing, Networking, Storage and Analysis (SC 20)_, pp. 972-986.<br/>[DOI](https://dx.doi.org/10.5555/3433701.3433792){:target="_blank"} - [PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2020_SC_Ali.pdf){:target="_blank"} - [BibTeX](/bibtex/ali2020batch.html){:target="_blank"}
 
-* Yang, L., Schmedding, A., __Pinciroli, R.__, and Smirni, E. (2020). "Simulating COVID-19 containment measures using the South Korean patient data". In _18th Conference on Embedded Networked Sensor Systems (SenSys 20)_, pp. 782-783.<br/>[DOI](https://dx.doi.org/10.1145/3384419.3430610){:target="_blank"} - [PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2020_SenSys_Yang.pdf) - [BibTeX](/bibtex/yang2020simulating.html){:target="_blank"}
+* Yang, L., Schmedding, A., __Pinciroli, R.__, and Smirni, E. (2020). "Simulating COVID-19 containment measures using the South Korean patient data". In _18th Conference on Embedded Networked Sensor Systems (SenSys 20)_, pp. 782-783.<br/>[DOI](https://dx.doi.org/10.1145/3384419.3430610){:target="_blank"} - [PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2020_SenSys_Yang.pdf){:target="_blank"} - [BibTeX](/bibtex/yang2020simulating.html){:target="_blank"}
 
 
 
@@ -46,7 +46,7 @@ author_profile: true
 
 ### Conferences
 
-* Ali, A., __Pinciroli, R.__, Yan, F., and Smirni, E. (2019). "It's not a Sprint, it's a Marathon: Stretching Multi-resource Burstable Performance in Public Clouds (industry track)". In _20th International Middleware Conference Industrial Track (Middleware 19)_, pp. 36-42.<br/>[DOI](https://dx.doi.org/10.1145/3366626.3368130){:target="_blank"} - [PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2019_Middleware_Ali.pdf) - [BibTeX](/bibtex/ali2019its.html){:target="_blank"}
+* Ali, A., __Pinciroli, R.__, Yan, F., and Smirni, E. (2019). "It's not a Sprint, it's a Marathon: Stretching Multi-resource Burstable Performance in Public Clouds (industry track)". In _20th International Middleware Conference Industrial Track (Middleware 19)_, pp. 36-42.<br/>[DOI](https://dx.doi.org/10.1145/3366626.3368130){:target="_blank"} - [PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2019_Middleware_Ali.pdf){:target="_blank"} - [BibTeX](/bibtex/ali2019its.html){:target="_blank"}
 
 ### Chapters
 
@@ -62,7 +62,7 @@ author_profile: true
 
 ### Conferences
 
-* Ali, A., __Pinciroli, R.__, Yan, F., and Smirni, E. (2018). "CEDULE: A scheduling framework for burstable performance in cloud computing". In _IEEE International Conference on Autonomic Computing (ICAC 18)_, pp. 141-150.<br/>[DOI](https://dx.doi.org/10.1109/ICAC.2018.00024){:target="_blank"} - [PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2018_ICAC_Ali.pdf) - [BibTeX](/bibtex/ali2018cedule.html){:target="_blank"}
+* Ali, A., __Pinciroli, R.__, Yan, F., and Smirni, E. (2018). "CEDULE: A scheduling framework for burstable performance in cloud computing". In _IEEE International Conference on Autonomic Computing (ICAC 18)_, pp. 141-150.<br/>[DOI](https://dx.doi.org/10.1109/ICAC.2018.00024){:target="_blank"} - [PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2018_ICAC_Ali.pdf){:target="_blank"} - [BibTeX](/bibtex/ali2018cedule.html){:target="_blank"}
 
 
 
