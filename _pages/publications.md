@@ -30,9 +30,9 @@ author_profile: true
 
 ### Journals
 
-* __Pinciroli, R.__, Ali, A., Yan, F., and Smirni, E. (2020). "CEDULE+: Resource Management for Burstable Cloud Instances Using Predictive Analytics". _IEEE Transactions on Network and Service Management_.<br/>\[[DOI](https://dx.doi.org/10.1109/TNSM.2020.3039942){:target="_blank"}\] - \[[~~PDF~~](/404.md)\] - \[[BibTeX](/bibtex/pinciroli2021cedule+.html){:target="_blank"}\]
+* __Pinciroli, R.__, Ali, A., Yan, F., and Smirni, E. (2020). "CEDULE+: Resource Management for Burstable Cloud Instances Using Predictive Analytics". _IEEE Transactions on Network and Service Management_.<br/>\[[DOI](https://dx.doi.org/10.1109/TNSM.2020.3039942){:target="_blank"}\] - \[[BibTeX](/bibtex/pinciroli2021cedule+.html){:target="_blank"}\]
 
-* Antonelli, F., Cortellessa, V., Gribaudo, M., __Pinciroli, R.__, Trivedi, K. S., and Trubiani, C. (2020). "Analytical modeling of performance indices under epistemic uncertainty applied to cloud computing systems". _Future Generation Computer Systems_, 102, pp. 746-761.<br/>\[[DOI](https://dx.doi.org/10.1016/j.future.2019.09.006){:target="_blank"}\] - \[[~~PDF~~](/404.md)\] - \[[BibTeX](antonelli2020analytical.html){:target="_blank"}\]
+* Antonelli, F., Cortellessa, V., Gribaudo, M., __Pinciroli, R.__, Trivedi, K. S., and Trubiani, C. (2020). "Analytical modeling of performance indices under epistemic uncertainty applied to cloud computing systems". _Future Generation Computer Systems_, 102, pp. 746-761.<br/>\[[DOI](https://dx.doi.org/10.1016/j.future.2019.09.006){:target="_blank"}\] - \[[BibTeX](antonelli2020analytical.html){:target="_blank"}\]
 
 ### Conferences
 
@@ -50,7 +50,7 @@ author_profile: true
 
 ### Chapters
 
-* Cerotti, D., Gribaudo, M., __Pinciroli, R.__, and Serazzi, G. (2019). "Modeling Techniques for Pool Depletion Systems". In _Systems Modeling: Methodologies and Tools_, pp. 79-94.<br/>\[[DOI](https://dx.doi.org/10.1007/978-3-319-92378-9_6){:target="_blank"}\] - \[[~~PDF~~](/404.md)\] - \[[BibTeX](/bibtex/cerotti2019modeling.html){:target="_blank"}\]
+* Cerotti, D., Gribaudo, M., __Pinciroli, R.__, and Serazzi, G. (2019). "Modeling Techniques for Pool Depletion Systems". In _Systems Modeling: Methodologies and Tools_, pp. 79-94.<br/>\[[DOI](https://dx.doi.org/10.1007/978-3-319-92378-9_6){:target="_blank"}\] - \[[BibTeX](/bibtex/cerotti2019modeling.html){:target="_blank"}\]
 
 
 
@@ -74,11 +74,11 @@ author_profile: true
 
 ### Conferences
 
-* __Pinciroli, R.__, Gribaudo, M., and Serazzi, G. (2017). "Modeling multiclass task-based applications on heterogeneous distributed environments". In _International Conference on Analytical and Stochastic Modeling Techniques and Applications (ASMTA 17)_, pp. 166-180.<br/>\[[DOI](https://dx.doi.org/10.1007/978-3-319-61428-1_12){:target="_blank"}\] - \[[~~PDF~~](/404.md)\] - \[[BibTeX](/bibtex/pinciroli2017modeling.html){:target="_blank"}\]
+* __Pinciroli, R.__, Gribaudo, M., and Serazzi, G. (2017). "Modeling multiclass task-based applications on heterogeneous distributed environments". In _International Conference on Analytical and Stochastic Modeling Techniques and Applications (ASMTA 17)_, pp. 166-180.<br/>\[[DOI](https://dx.doi.org/10.1007/978-3-319-61428-1_12){:target="_blank"}\] - \[[BibTeX](/bibtex/pinciroli2017modeling.html){:target="_blank"}\]
 
 * __Pinciroli, R.__, Bobbio, A., Bolchini, C., Cerotti, D., Gribaudo, M., Miele, A., and Trivedi, K. (2017). "Epistemic uncertainty propagation in a weibull environment for a two-core system-on-chip". In _2nd International Conference on System Reliability and Safety (ICSRS 17)_, pp. 516-520.<br/>\[[DOI](https://dx.doi.org/10.1109/ICSRS.2017.8272875){:target="_blank"}\] - \[[PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2017_ICSRS_Pinciroli.pdf){:target="_blank"}\] - \[[BibTeX](/bibtex/pinciroli2017epistemic.html){:target="_blank"}\]
 
-* __Pinciroli, R.__, Gribaudo, M., Roveri, M., and Serazzi, G. (2017). "Capacity planning of fog computing infrastructures for smart monitoring". In _Workshop on New Frontiers in Quantitative Methods in Informatics (InfQ 17)_, pp. 72-81.<br/>\[[DOI](https://dx.doi.org/10.1007/978-3-319-91632-3_6){:target="_blank"}\] - \[[~~PDF~~](/404.md)\] - \[[BibTeX](/bibtex/pinciroli2017capacity.html){:target="_blank"}\]
+* __Pinciroli, R.__, Gribaudo, M., Roveri, M., and Serazzi, G. (2017). "Capacity planning of fog computing infrastructures for smart monitoring". In _Workshop on New Frontiers in Quantitative Methods in Informatics (InfQ 17)_, pp. 72-81.<br/>\[[DOI](https://dx.doi.org/10.1007/978-3-319-91632-3_6){:target="_blank"}\] - \[[BibTeX](/bibtex/pinciroli2017capacity.html){:target="_blank"}\]
 
 
 
@@ -86,13 +86,13 @@ author_profile: true
 
 ### Conferences
 
-* Cerotti, D., Gribaudo, M., __Pinciroli, R.__, and Serazzi, G. (2016). "Stochastic analysis of energy consumption in pool depletion systems". In _International GI/ITG Conference on Measurement, Modelling, and Evaluation of Computing Systems and Dependability and Fault Tolerance (MMB&DFT 2016)_, pp. 25-39.<br/>\[[DOI](https://dx.doi.org/10.1007/978-3-319-31559-1_4){:target="_blank"}\] - \[[~~PDF~~](/404.md)\] - \[[BibTeX](/bibtex/cerotti2016stochastic.html){:target="_blank"}\]
+* Cerotti, D., Gribaudo, M., __Pinciroli, R.__, and Serazzi, G. (2016). "Stochastic analysis of energy consumption in pool depletion systems". In _International GI/ITG Conference on Measurement, Modelling, and Evaluation of Computing Systems and Dependability and Fault Tolerance (MMB&DFT 2016)_, pp. 25-39.<br/>\[[DOI](https://dx.doi.org/10.1007/978-3-319-31559-1_4){:target="_blank"}\] - \[[BibTeX](/bibtex/cerotti2016stochastic.html){:target="_blank"}\]
 
-* Cerotti, D., Gribaudo, M., __Pinciroli, R.__, and Serazzi, G. (2016). "Optimal population mix in pool depletion systems with two-class workload". In _10th International Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 16)_, pp. 11-18.<br/>\[[DOI](https://dx.doi.org/10.4108/eai.25-10-2016.2266566){:target="_blank"}\] - \[[~~PDF~~](/404.md)\] - \[[BibTeX](/bibtex/cerotti2016optimal.html){:target="_blank"}\]
+* Cerotti, D., Gribaudo, M., __Pinciroli, R.__, and Serazzi, G. (2016). "Optimal population mix in pool depletion systems with two-class workload". In _10th International Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 16)_, pp. 11-18.<br/>\[[DOI](https://dx.doi.org/10.4108/eai.25-10-2016.2266566){:target="_blank"}\] - \[[BibTeX](/bibtex/cerotti2016optimal.html){:target="_blank"}\]
 
-* __Pinciroli, R.__, Trivedi, K., and Bobbio, A. (2016). "Parametric sensitivity and uncertainty propagation in dependability models". In _10th International Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 16)_, pp. 44-51.<br/>\[[DOI](https://dx.doi.org/10.4108/eai.25-10-2016.2266529){:target="_blank"}\] - \[[~~PDF~~](/404.md)\] - \[[BibTeX](/bibtex/pinciroli2016parametric.html){:target="_blank"}\]
+* __Pinciroli, R.__, Trivedi, K., and Bobbio, A. (2016). "Parametric sensitivity and uncertainty propagation in dependability models". In _10th International Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 16)_, pp. 44-51.<br/>\[[DOI](https://dx.doi.org/10.4108/eai.25-10-2016.2266529){:target="_blank"}\] - \[[BibTeX](/bibtex/pinciroli2016parametric.html){:target="_blank"}\]
 
-* __Pinciroli, R.__, and Distefano, S. (2016). "Extending Queuing Networks to Assess Mobile CrowdSensing Application Performance". In _10th International Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 16)_, pp. 255-262.<br/>\[[DOI](https://dx.doi.org/10.4108/eai.25-10-2016.2266899){:target="_blank"}\] - \[[~~PDF~~](/404.md)\] - \[[BibTeX](/bibtex/pinciroli2016extending.html){:target="_blank"}\]
+* __Pinciroli, R.__, and Distefano, S. (2016). "Extending Queuing Networks to Assess Mobile CrowdSensing Application Performance". In _10th International Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 16)_, pp. 255-262.<br/>\[[DOI](https://dx.doi.org/10.4108/eai.25-10-2016.2266899){:target="_blank"}\] - \[[BibTeX](/bibtex/pinciroli2016extending.html){:target="_blank"}\]
 
 
 
