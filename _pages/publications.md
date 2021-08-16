@@ -36,7 +36,7 @@ author_profile: true
 
 ### Conferences
 
-* Ali, A.§, __Pinciroli, R.__§, Yan, F., and Smirni, E. (2020). "Batch: machine learning inference serving on serverless platforms with adaptive batching". In _International Conference for High Performance Computing, Networking, Storage and Analysis (SC 20)_, pp. 972-986.<br/>[DOI](https://dx.doi.org/10.5555/3433701.3433792){:target="_blank"} - [PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2020_SC_Ali.pdf){:target="_blank"} - [BibTeX](/bibtex/ali2020batch.html){:target="_blank"}
+* Ali, A.<sup>§</sup>, __Pinciroli, R.__<sup>§</sup>, Yan, F., and Smirni, E. (2020). "Batch: machine learning inference serving on serverless platforms with adaptive batching". In _International Conference for High Performance Computing, Networking, Storage and Analysis (SC 20)_, pp. 972-986.<br/>[DOI](https://dx.doi.org/10.5555/3433701.3433792){:target="_blank"} - [PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2020_SC_Ali.pdf){:target="_blank"} - [BibTeX](/bibtex/ali2020batch.html){:target="_blank"}
 
 * Yang, L., Schmedding, A., __Pinciroli, R.__, and Smirni, E. (2020). "Simulating COVID-19 containment measures using the South Korean patient data". In _18th Conference on Embedded Networked Sensor Systems (SenSys 20)_, pp. 782-783.<br/>[DOI](https://dx.doi.org/10.1145/3384419.3430610){:target="_blank"} - [PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2020_SenSys_Yang.pdf){:target="_blank"} - [BibTeX](/bibtex/yang2020simulating.html){:target="_blank"}
 
