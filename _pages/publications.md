@@ -70,7 +70,7 @@ author_profile: true
 
 ### Journals
 
-* __Pinciroli, R.__, and Distefano, S. (2017). "Characterization and evaluation of mobile crowdsensing performance and energy indicators". _ACM SIGMETRICS Performance Evaluation Review_, 44(4), pp. 80-90.<br/>\[[DOI](https://dx.doi.org/10.1145/3092819.3092829){:target="_blank"}\] - \[[PDF](https://dl.acm.org/doi/pdf/10.1145/3092819.3092829?casa_token=Wup7Zcao0gwAAAAA:fL7NP5sVqb3naOOiTESDk_C3WwAwpPYPY1CKjb7SefiBpU7N9EFwwUvh1SK3pTqQMXRN9B08ZwGL){:target="_blank"}\] - \[[PDF](https://dl.acm.org/doi/pdf/10.1145/3092819.3092829?casa_token=B2b--87yJzcAAAAA:b7qWFolJ24ZeqOjDaDyU9N-uIK6cRgYsxdqeQWxEgFmHgqUJm3m8e5Z-WfV3TJnZsswbViTW9Rb2-g){:target="_blank"}\] - \[[BibTeX](/bibtex/pinciroli2017characterization.html){:target="_blank"}\]
+* __Pinciroli, R.__, and Distefano, S. (2017). "Characterization and evaluation of mobile crowdsensing performance and energy indicators". _ACM SIGMETRICS Performance Evaluation Review_, 44(4), pp. 80-90.<br/>\[[DOI](https://dx.doi.org/10.1145/3092819.3092829){:target="_blank"}\] - \[[PDF](https://dl.acm.org/doi/pdf/10.1145/3092819.3092829?casa_token=Wup7Zcao0gwAAAAA:fL7NP5sVqb3naOOiTESDk_C3WwAwpPYPY1CKjb7SefiBpU7N9EFwwUvh1SK3pTqQMXRN9B08ZwGL){:target="_blank"}\] - \[[BibTeX](/bibtex/pinciroli2017characterization.html){:target="_blank"}\]
 
 ### Conferences
 
