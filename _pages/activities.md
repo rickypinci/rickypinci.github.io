@@ -9,7 +9,7 @@ I served as PC member of conferences and workshops in the area of performance an
 ### Program Committee
 * International Conference on Distributed Computing Systems, Cloud Computing and Data Centers Track ([ICDCS 2021](https://icdcs2021.us){:target="_blank"})
 * International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems ([MASCOTS 2020](http://mascots20.iitis.pl/){:target="_blank"}, [MASCOTS 2021](https://mascots.iitis.pl/){:target="_blank"})
-* International Conference on Performance Engineering ([ICPE 2021 – AET](https://icpe2021.spec.org/calls/artifact-evaluation-track/){:target="_blank"})
+* International Conference on Performance Engineering ([ICPE 2021 – AET](https://icpe2021.spec.org/calls/artifact-evaluation-track/){:target="_blank"}, [ICPE 2022 – AET](https://icpe2022.spec.org/program-committee/){:target="_blank"})
 * International Conference on Quantitative Evaluation of SysTems ([QEST 2020](https://www.qest.org/qest2020/){:target="_blank"}, [QEST 2021 – AET](https://www.qest.org/qest2021/artifacts.html){:target="_blank"})
 * International Conference on JointCloud Computing ([JCC 2021](https://jointcloud.cloud/){:target="_blank"})
 * International Workshop on Energy-Efficient Data Centres ([E2DC 2021](https://e2dc.eu/){:target="_blank"})
