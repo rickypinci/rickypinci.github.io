@@ -92,7 +92,7 @@ author_profile: true
 
 * __Pinciroli, R.__, Trivedi, K., and Bobbio, A. (2016). "Parametric sensitivity and uncertainty propagation in dependability models". In _10th International Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 16)_, pp. 44-51.<br/>\[[DOI](https://dx.doi.org/10.4108/eai.25-10-2016.2266529){:target="_blank"}\] - \[[PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2016_Valuetools_Pinciroli.pdf){:target="_blank"}\] - \[[BibTeX](/bibtex/pinciroli2016parametric.html){:target="_blank"}\]
 
-* __Pinciroli, R.__, and Distefano, S. (2016). "Extending Queuing Networks to Assess Mobile CrowdSensing Application Performance". In _10th International Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 16)_, pp. 255-262.<br/>\[[DOI](https://dx.doi.org/10.4108/eai.25-10-2016.2266899){:target="_blank"}\] - \[[BibTeX](/bibtex/pinciroli2016extending.html){:target="_blank"}\]
+* __Pinciroli, R.__, and Distefano, S. (2016). "Extending Queuing Networks to Assess Mobile CrowdSensing Application Performance". In _10th International Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 16)_, pp. 255-262.<br/>\[[DOI](https://dx.doi.org/10.4108/eai.25-10-2016.2266899){:target="_blank"}\] - \[[PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2016_Valuetools_Pinciroli2.pdf){:target="_blank"}\] - \[[BibTeX](/bibtex/pinciroli2016extending.html){:target="_blank"}\]
 
 
 
