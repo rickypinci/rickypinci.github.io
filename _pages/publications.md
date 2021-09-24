@@ -50,7 +50,7 @@ author_profile: true
 
 ### Chapters
 
-* Cerotti, D., Gribaudo, M., __Pinciroli, R.__, and Serazzi, G. (2019). "Modeling Techniques for Pool Depletion Systems". In _Systems Modeling: Methodologies and Tools_, pp. 79-94.<br/>\[[DOI](https://dx.doi.org/10.1007/978-3-319-92378-9_6){:target="_blank"}\] - \[[BibTeX](/bibtex/cerotti2019modeling.html){:target="_blank"}\]
+* Cerotti, D., Gribaudo, M., __Pinciroli, R.__, and Serazzi, G. (2019). "Modeling Techniques for Pool Depletion Systems". In _Systems Modeling: Methodologies and Tools_, pp. 79-94.<br/>\[[DOI](https://dx.doi.org/10.1007/978-3-319-92378-9_6){:target="_blank"}\] - \[[PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2019_ChapterSMMT_Cerotti.pdf){:target="_blank"}\] - \[[BibTeX](/bibtex/cerotti2019modeling.html){:target="_blank"}\]
 
 
 
