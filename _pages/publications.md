@@ -104,7 +104,7 @@ author_profile: true
 
 ### Conferences
 
-* Cerotti, D., Gribaudo, M., Piazzolla, P., __Pinciroli, R.__, and Serazzi, G. (2015). "Modeling power consumption in multicore cpus with multithreading and frequency scaling". In _Information Sciences and Systems 2015 (ISCIS 15)_, pp. 81-90.<br/>\[[DOI](https://dx.doi.org/10.1007/978-3-319-22635-4_7){:target="_blank"}\] - \[[PDF](https://d1wqtxts1xzle7.cloudfront.net/41005491/Information_Sciences_and_Systems_2015-with-cover-page-v2.pdf?Expires=1629122793&Signature=McweAuBCdLF06dUVbOnZXTHX~3tqBVUBTGFUFM83uxjtxfhJ8~O2gvV-mCA8OliSP98NZPTpb-WhcmFdM8OQRN-dZ4w7P2~P1LwcUZmhHLj5DvJhfIGW3-dTxk5u8a3HeXIviboUKKJvivUrHdzH9EIulCFUAz3kTKtPiNH93HRQXRXVOvAi1rWvkS21tdkUbLXC1rDM7WzfRXaxobqY9cn69oZvvB-8eg8rXcUmvLdDqE~G94N1Aga9bEITq4dhjzQECwLlsVUlu2e-Rcv2iiqQa7l-aCzID9YMcqHeYxN93LmlTd6OV-fX3FSRm0W3ppD~trcjJCisZAX5L8Ip~w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA#page=89){:target="_blank"}\] - \[[BibTeX](/bibtex/cerotti2015modeling.html){:target="_blank"}\]
+* Cerotti, D., Gribaudo, M., Piazzolla, P., __Pinciroli, R.__, and Serazzi, G. (2015). "Modeling power consumption in multicore cpus with multithreading and frequency scaling". In _Information Sciences and Systems 2015 (ISCIS 15)_, pp. 81-90.<br/>\[[DOI](https://dx.doi.org/10.1007/978-3-319-22635-4_7){:target="_blank"}\] - \[[PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2015_ISCIS_Cerotti.pdf){:target="_blank"}\] - \[[BibTeX](/bibtex/cerotti2015modeling.html){:target="_blank"}\]
 
 
 
