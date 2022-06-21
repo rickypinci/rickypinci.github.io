@@ -21,7 +21,7 @@ author_profile: true
 
 ### Journals
 
-* __Pinciroli, R.__, Yang, L., Alter, J., and Smirni, E. (2021). "Lifespan and Failures of SSDs and HDDs: Similarities, Differences, and Prediction Models". In _IEEE Transactions on Dependable and Secure Computing_, (Early Access).<br/>\[[DOI](https://doi.org/10.1109/TDSC.2021.3131571){:target="_blank"}\] - \[[BibTeX](bibtex/pinciroli2021lifespan.html){:target="_blank"}\]
+* __Pinciroli, R.__, Yang, L., Alter, J., and Smirni, E. (2021). "Lifespan and Failures of SSDs and HDDs: Similarities, Differences, and Prediction Models". In _IEEE Transactions on Dependable and Secure Computing_, (Early Access).<br/>\[[DOI](https://doi.org/10.1109/TDSC.2021.3131571){:target="_blank"}\] - \[[PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2021_TDSC_Pinciroli.pdf){:target="_blank"}\] - \[[BibTeX](bibtex/pinciroli2021lifespan.html){:target="_blank"}\]
 
 ### Conferences
 * __Pinciroli, R.__, Smith, C. U., and Trubiani, C. (2021). "QN-based Modeling and Analysis of Software Performance Antipatterns for Cyber-Physical Systems". In _ACM/SPEC International Conference on Performance Engineering (ICPE 21)_, pp. 93-104.<br/>\[[DOI](https://dx.doi.org/10.1145/3427921.3450251){:target="_blank"}\] - \[[PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2021_ICPE_Pinciroli.pdf){:target="_blank"}\] - \[[BibTeX](/bibtex/pinciroli2021qn.html){:target="_blank"}\]
