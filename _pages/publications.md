@@ -17,6 +17,14 @@ author_profile: true
 <!--Citation style: APA-->
 <!--<br/>\[[DOI](){:target="_blank"}\] - \[[PDF](){:target="_blank"}\] - \[[BibTeX](){:target="_blank"}\]-->
 
+## 2022
+
+### Conferences
+
+* Schmedding, A., Yang, L., __Pinciroli, R.__, and Smirni, E. (2022). "GeoSpread: an Epidemic Spread Modeling Tool for COVID-19 Using Mobility Data". In _Conference on Information Technology for Social Good (GoodIT 22)_. <br/> \[[Preprint](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2022_GoodIT_Schmedding.pdf){:target="_blank"}\]
+
+* Murgia, M., __Pinciroli, R.__, Trubiani, C., and Tuosto, E. (2022). "On Model-based Performance Analysis of Collective Adaptive Systems". In _International Symposium on Leveraging Applications of Formal Methods (ISoLA 22)_.<br/> \[[Preprint](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2022_ISoLA_Murgia.pdf){:target="_blank"}\]
+
 ## 2021
 
 ### Journals
@@ -78,11 +86,11 @@ author_profile: true
 
 ### Conferences
 
-* __Pinciroli, R.__, Gribaudo, M., and Serazzi, G. (2017). "Modeling multiclass task-based applications on heterogeneous distributed environments". In _International Conference on Analytical and Stochastic Modeling Techniques and Applications (ASMTA 17)_, pp. 166-180.<br/>\[[DOI](https://dx.doi.org/10.1007/978-3-319-61428-1_12){:target="_blank"}\] - \[[PDF](https://link.springer.com/content/pdf/10.1007%2F978-3-319-61428-1_12.pdf){:target="_blank"}\] - \[[BibTeX](/bibtex/pinciroli2017modeling.html){:target="_blank"}\]
+* __Pinciroli, R.__, Gribaudo, M., and Serazzi, G. (2017). "Modeling multiclass task-based applications on heterogeneous distributed environments". In _International Conference on Analytical and Stochastic Modeling Techniques and Applications (ASMTA 17)_, pp. 166-180.<br/>\[[DOI](https://dx.doi.org/10.1007/978-3-319-61428-1_12){:target="_blank"}\] - \[[PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2017_ASMTA_Pinciroli.pdf){:target="_blank"}\] - \[[BibTeX](/bibtex/pinciroli2017modeling.html){:target="_blank"}\]
 
 * __Pinciroli, R.__, Bobbio, A., Bolchini, C., Cerotti, D., Gribaudo, M., Miele, A., and Trivedi, K. (2017). "Epistemic uncertainty propagation in a weibull environment for a two-core system-on-chip". In _2nd International Conference on System Reliability and Safety (ICSRS 17)_, pp. 516-520.<br/>\[[DOI](https://dx.doi.org/10.1109/ICSRS.2017.8272875){:target="_blank"}\] - \[[PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2017_ICSRS_Pinciroli.pdf){:target="_blank"}\] - \[[BibTeX](/bibtex/pinciroli2017epistemic.html){:target="_blank"}\]
 
-* __Pinciroli, R.__, Gribaudo, M., Roveri, M., and Serazzi, G. (2017). "Capacity planning of fog computing infrastructures for smart monitoring". In _Workshop on New Frontiers in Quantitative Methods in Informatics (InfQ 17)_, pp. 72-81.<br/>\[[DOI](https://dx.doi.org/10.1007/978-3-319-91632-3_6){:target="_blank"}\] - \[[PDF](https://link.springer.com/content/pdf/10.1007%2F978-3-319-91632-3_6.pdf){:target="_blank"}\] - \[[BibTeX](/bibtex/pinciroli2017capacity.html){:target="_blank"}\]
+* __Pinciroli, R.__, Gribaudo, M., Roveri, M., and Serazzi, G. (2017). "Capacity planning of fog computing infrastructures for smart monitoring". In _Workshop on New Frontiers in Quantitative Methods in Informatics (InfQ 17)_, pp. 72-81.<br/>\[[DOI](https://dx.doi.org/10.1007/978-3-319-91632-3_6){:target="_blank"}\] - \[[PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2017_InfQ_Pinciroli.pdf){:target="_blank"}\] - \[[BibTeX](/bibtex/pinciroli2017capacity.html){:target="_blank"}\]
 
 
 
@@ -90,7 +98,7 @@ author_profile: true
 
 ### Conferences
 
-* Cerotti, D., Gribaudo, M., __Pinciroli, R.__, and Serazzi, G. (2016). "Stochastic analysis of energy consumption in pool depletion systems". In _International GI/ITG Conference on Measurement, Modelling, and Evaluation of Computing Systems and Dependability and Fault Tolerance (MMB&DFT 2016)_, pp. 25-39.<br/>\[[DOI](https://dx.doi.org/10.1007/978-3-319-31559-1_4){:target="_blank"}\] - \[[PDF](https://link.springer.com/content/pdf/10.1007%2F978-3-319-31559-1_4.pdf){:target="_blank"}\] - \[[BibTeX](/bibtex/cerotti2016stochastic.html){:target="_blank"}\]
+* Cerotti, D., Gribaudo, M., __Pinciroli, R.__, and Serazzi, G. (2016). "Stochastic analysis of energy consumption in pool depletion systems". In _International GI/ITG Conference on Measurement, Modelling, and Evaluation of Computing Systems and Dependability and Fault Tolerance (MMB&DFT 2016)_, pp. 25-39.<br/>\[[DOI](https://dx.doi.org/10.1007/978-3-319-31559-1_4){:target="_blank"}\] - \[[PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2016_MMBDFT_Cerotti.pdf){:target="_blank"}\] - \[[BibTeX](/bibtex/cerotti2016stochastic.html){:target="_blank"}\]
 
 * Cerotti, D., Gribaudo, M., __Pinciroli, R.__, and Serazzi, G. (2016). "Optimal population mix in pool depletion systems with two-class workload". In _10th International Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 16)_, pp. 11-18.<br/>\[[DOI](https://dx.doi.org/10.4108/eai.25-10-2016.2266566){:target="_blank"}\] - \[[PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2016_Valuetools_Cerotti.pdf){:target="_blank"}\] - \[[BibTeX](/bibtex/cerotti2016optimal.html){:target="_blank"}\]
 
