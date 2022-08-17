@@ -21,7 +21,7 @@ author_profile: true
 
 ### Conferences
 
-* Ali, A., __Pinciroli, R.__, Yan, F., and Smirni, E. (2022). "". In _International Conference on Very Large Data Bases (VLDB 22)_.
+* Ali, A., __Pinciroli, R.__, Yan, F., and Smirni, E. (2022). "Optimizing Inference Serving on Serverless Platforms". In _International Conference on Very Large Data Bases (VLDB 22)_.
 
 * Schmedding, A., Yang, L., __Pinciroli, R.__, and Smirni, E. (2022). "GeoSpread: an Epidemic Spread Modeling Tool for COVID-19 Using Mobility Data". In _Conference on Information Technology for Social Good (GoodIT 22)_.<br/> \[[Preprint](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2022_GoodIT_Schmedding.pdf){:target="_blank"}\]
 
