@@ -23,7 +23,7 @@ author_profile: true
 
 * Ali, A., __Pinciroli, R.__, Yan, F., and Smirni, E. (2022). "Optimizing Inference Serving on Serverless Platforms". In _International Conference on Very Large Data Bases (VLDB 22)_.<br/>\[[DOI](404.md){:target="\_blank"}\] - \[[PDF](https://www.vldb.org/pvldb/vol15/p2071-ali.pdf){:target="\_blank"}\] - \[[BibTeX](bibtex/ali2022optimizing.html){:target="\_blank"}\]
 
-* Schmedding, A., Yang, L., __Pinciroli, R.__, and Smirni, E. (2022). "GeoSpread: an Epidemic Spread Modeling Tool for COVID-19 Using Mobility Data". In _Conference on Information Technology for Social Good (GoodIT 22)_.<br/>\[[DOI](https://doi.org/10.1145/3524458.3547257){:target="\_blank"}\] - \[[Preprint](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2022_GoodIT_Schmedding.pdf){:target="_blank"}\] - \[[BibTeX](bibtex/schmedding2022geospread.html){:target="\_blank"}\]
+* Schmedding, A., Yang, L., __Pinciroli, R.__, and Smirni, E. (2022). "GeoSpread: an Epidemic Spread Modeling Tool for COVID-19 Using Mobility Data". In _Conference on Information Technology for Social Good (GoodIT 22)_.<br/>\[[DOI](https://doi.org/10.1145/3524458.3547257){:target="\_blank"}\] - \[[PDF](https://dl.acm.org/doi/pdf/10.1145/3524458.3547257){:target="_blank"}\] - \[[BibTeX](bibtex/schmedding2022geospread.html){:target="\_blank"}\]
 
 * Murgia, M., __Pinciroli, R.__, Trubiani, C., and Tuosto, E. (2022). "On Model-based Performance Analysis of Collective Adaptive Systems". In _International Symposium on Leveraging Applications of Formal Methods (ISoLA 22)_.<br/> \[[Preprint](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2022_ISoLA_Murgia.pdf){:target="_blank"}\]
 
