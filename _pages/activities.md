@@ -10,7 +10,8 @@ author_profile: true
 ### Program Committee
 I served as PC member of conferences and workshops in the area of performance and quantitative system analysis.
 
-* European Conference on Software Architecture ([ECSA 2022 - Industry Program](https://conf.researchr.org/committee/ecsa-2022/ecsa-2022-industry-program-program-committee))
+* Technical track on Software Architecture: Theory, Technology, and Applications at SAC 2023 ([SAT-TA 2023](https://foselab.unibg.it/sa-tta/2023/){:target="_blank"})
+* European Conference on Software Architecture ([ECSA 2022 - Industry Program](https://conf.researchr.org/committee/ecsa-2022/ecsa-2022-industry-program-program-committee){:target="_blank"})
 * International Conference on Distributed Computing Systems, Cloud Computing and Data Centers Track ([ICDCS 2021](https://icdcs2021.us){:target="_blank"})
 * International Conference on JointCloud Computing ([JCC 2021](https://jointcloud.cloud/){:target="_blank"}, [JCC 2022](https://ieeejcc.org/?p=26){:target="_blank"})
 * International Conference on Performance Engineering ([ICPE 2021 – AET](https://icpe2021.spec.org/calls/artifact-evaluation-track/){:target="_blank"}, [ICPE 2022 – AET](https://icpe2022.spec.org/program-committee/){:target="_blank"}, [ICPE 2022 – WIPVT](https://icpe2022.spec.org/program-committee/){:target="_blank"})
