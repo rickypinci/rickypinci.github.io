@@ -25,7 +25,7 @@ author_profile: true
 
 * Schmedding, A., Yang, L., __Pinciroli, R.__, and Smirni, E. (2022). "GeoSpread: an Epidemic Spread Modeling Tool for COVID-19 Using Mobility Data". In _Conference on Information Technology for Social Good (GoodIT 22)_.<br/>\[[DOI](https://doi.org/10.1145/3524458.3547257){:target="\_blank"}\] - \[[PDF](https://dl.acm.org/doi/pdf/10.1145/3524458.3547257){:target="_blank"}\] - \[[BibTeX](bibtex/schmedding2022geospread.html){:target="\_blank"}\]
 
-* Murgia, M., __Pinciroli, R.__, Trubiani, C., and Tuosto, E. (2022). "On Model-based Performance Analysis of Collective Adaptive Systems". In _International Symposium on Leveraging Applications of Formal Methods (ISoLA 22)_.<br/> \[[Preprint](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2022_ISoLA_Murgia.pdf){:target="_blank"}\]
+* Murgia, M., __Pinciroli, R.__, Trubiani, C., and Tuosto, E. (2022). "On Model-based Performance Analysis of Collective Adaptive Systems". In _International Symposium on Leveraging Applications of Formal Methods (ISoLA 22)_.<br/>\[[DOI](https://doi.org/10.1007/978-3-031-19759-8_17){:target="\_blank"}\] \[[Preprint](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2022_ISoLA_Murgia.pdf){:target="_blank"}\]
 
 * __Pinciroli, R.__, Yang, L., Alter, J., and Smirni, E. (2022). "Machine Learning Models for SSD and HDD Reliability Prediction". In _Annual Reliability and Maintainability Symposium (RAMS 22)_.<br/>\[[DOI](https://doi.org/10.1109/RAMS51457.2022.9893942){:target="\_blank"}\] - \[[BibTeX](bibtex/pinciroli2022machine.html){:target="\_blank"}\]
 
