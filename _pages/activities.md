@@ -19,7 +19,7 @@ I served as PC member of conferences and workshops in the area of performance an
 * International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems ([MASCOTS 2020](http://mascots20.iitis.pl/){:target="_blank"}, [MASCOTS 2021](https://mascots.iitis.pl/){:target="_blank"})
 * Workshop on Cloud, IoT and Fog Systems([CIFS 2022](http://cifs.servicelaboratory.ch/cifs2022/){:target="_blank"})
 * Workshop on Energy-Efficient Data Centres ([E2DC 2021](https://e2dc.eu/){:target="_blank"}, [E2DC 2022](https://e2dc.eu/){:target="_blank"})
-* Workshop on Hot Topics in Cloud Computing Performance ([HotCloudPerf 2022](https://hotcloudperf.spec.org/){:target="_blank"})
+* Workshop on Hot Topics in Cloud Computing Performance ([HotCloudPerf 2022](https://sites.google.com/view/hotcloudperf2022){:target="_blank"}, [HotCloudPerf 2023](https://hotcloudperf.spec.org/){:target="_blank"})
 * Workshop on Software Engineering for Resilient Systems ([SERENE 2022](https://serene.disim.univaq.it/2022/index.html))
 
 ### Review Activities
