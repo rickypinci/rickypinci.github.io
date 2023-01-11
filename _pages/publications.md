@@ -17,6 +17,15 @@ author_profile: true
 <!--Citation style: APA-->
 <!--<br/>\[[DOI](){:target="_blank"}\] - \[[PDF](){:target="_blank"}\] - \[[BibTeX](){:target="_blank"}\]-->
 
+## 2023
+
+### Journals
+
+* __Pinciroli, R.__ and Trubiani, C. (2023). "Performance Analysis of Fault-Tolerant Multi-Agent Coordination Mechanisms". In _IEEE Transactions on Industrial Informatics_, (Early Access).<br/>\[[DOI](https://doi.org/10.1109/TII.2023.3234606){:target="\_blank"}\] - \[[Preprint](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2023_TII_Pinciroli.pdf){:target="\_blank"}\] - \[[BibTeX](bibtex/pinciroli2023performance.html){:target="\_blank"}\]
+
+* Trubiani, C., __Pinciroli, R.__, Biaggi, A., and Fontana, F. A. (2023). "Automated Detection of Software Performance Antipatterns in Java-Based Applications". In _IEEE Transactions on Software Engineering_, (Early Access).<br/>\[[DOI](https://doi.org/10.1109/TSE.2023.3234321){:target="\_blank"}\] - \[[Preprint](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2023_TSE_Trubiani.pdf){:target="\_blank"}\] - \[[BibTeX](bibtex/trubiani2023automated.html){:target="\_blank"}\]
+
+
 ## 2022
 
 ### Conferences
