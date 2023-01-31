@@ -6,6 +6,7 @@ author_profile: true
 
 ### Organizing Committee
 * Publicity Chair of [ACM SIGMETRICS 2023](https://www.sigmetrics.org/sigmetrics2023/organization.html){:target="_blank"}
+* Organizer of Workshop on Artificial Intelligence for Performance Modeling, Prediction, and Control [AIPerf 2023](https://aiperf.github.io/aiperf2023/){:target="_blank"}
 
 ### Program Committee
 I served as PC member of conferences and workshops in the area of performance and quantitative system analysis.
