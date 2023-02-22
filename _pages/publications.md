@@ -25,6 +25,8 @@ author_profile: true
 
 * Trubiani, C., __Pinciroli, R.__, Biaggi, A., and Fontana, F. A. (2023). "Automated Detection of Software Performance Antipatterns in Java-Based Applications". In _IEEE Transactions on Software Engineering_, (Early Access).<br/>\[[DOI](https://doi.org/10.1109/TSE.2023.3234321){:target="\_blank"}\] - \[[Preprint](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2023_TSE_Trubiani.pdf){:target="\_blank"}\] - \[[BibTeX](bibtex/trubiani2023automated.html){:target="\_blank"}\]
 
+* Schmedding, A., __Pinciroli, R.__, Yang, L., and Smirni, E. (2023). "Epidemic Spread Modeling for COVID-19 Using Cross-fertilization of Mobility Data". In _IEEE Transactions on Big Data_, (Early Access).<br/>\[[DOI](404.md){:target="\_blank"}\] - \[[Preprint](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2023_TBD_Schmedding.pdf){:target="\_blank"}\] - \[[BibTeX](bibtex/schmedding2023epidemic.html){:target="\_blank"}\]
+
 
 ## 2022
 
