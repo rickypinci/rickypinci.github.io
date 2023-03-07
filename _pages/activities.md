@@ -11,6 +11,7 @@ author_profile: true
 ### Program Committee
 I served as PC member of conferences and workshops in the area of performance and quantitative system analysis.
 
+* European Conference on Software Architecture ([ECSA 2023](https://conf.researchr.org/committee/ecsa-2023/ecsa-2023-workshops-tutorials-program-committee){:target="_blank"})
 * Technical track on Software Architecture: Theory, Technology, and Applications at SAC 2023 ([SAT-TA 2023](https://foselab.unibg.it/sa-tta/2023/){:target="_blank"})
 * International Conference on Software Architecture ([ICSA 2023 - Poster](https://icsa-conferences.org/2023/call-for-papers/poster-track/){:target="_blank"})
 * European Conference on Software Architecture ([ECSA 2022 - Industry Program](https://conf.researchr.org/committee/ecsa-2022/ecsa-2022-industry-program-program-committee){:target="_blank"})
