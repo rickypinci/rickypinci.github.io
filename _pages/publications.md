@@ -59,7 +59,7 @@ author_profile: true
 
 * __Pinciroli, R.__, Ali, A., Yan, F., and Smirni, E. (2020). "CEDULE+: Resource Management for Burstable Cloud Instances Using Predictive Analytics". _IEEE Transactions on Network and Service Management_, 18.1, pp. 945-957.<br/>\[[DOI](https://dx.doi.org/10.1109/TNSM.2020.3039942){:target="_blank"}\] - \[[PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2020_TNSM_Pinciroli.pdf){:target="_blank"}\] - \[[BibTeX](https://dblp.uni-trier.de/rec/journals/tnsm/PinciroliAYS21.html?view=bibtex){:target="_blank"}\]
 
-* Antonelli, F., Cortellessa, V., Gribaudo, M., __Pinciroli, R.__, Trivedi, K. S., and Trubiani, C. (2020). "Analytical modeling of performance indices under epistemic uncertainty applied to cloud computing systems". _Future Generation Computer Systems_, 102, pp. 746-761.<br/>\[[DOI](https://dx.doi.org/10.1016/j.future.2019.09.006){:target="_blank"}\] - \[[BibTeX](https://dblp.uni-trier.de/rec/journals/fgcs/AntonelliCGPTT20.html?view=bibtex){:target="_blank"}\]
+* Antonelli, F., Cortellessa, V., Gribaudo, M., __Pinciroli, R.__, Trivedi, K. S., and Trubiani, C. (2020). "Analytical modeling of performance indices under epistemic uncertainty applied to cloud computing systems". _Future Generation Computer Systems_, 102, pp. 746-761.<br/>\[[DOI](https://dx.doi.org/10.1016/j.future.2019.09.006){:target="_blank"}\] - \[[PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2020_FGCS_Antonelli.pdf){:target="_blank"}\] - \[[BibTeX](https://dblp.uni-trier.de/rec/journals/fgcs/AntonelliCGPTT20.html?view=bibtex){:target="_blank"}\]
 
 ### Conferences
 
