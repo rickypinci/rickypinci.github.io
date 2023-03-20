@@ -27,6 +27,10 @@ author_profile: true
 
 * Schmedding, A., __Pinciroli, R.__, Yang, L., and Smirni, E. (2023). "Epidemic Spread Modeling for COVID-19 Using Cross-fertilization of Mobility Data". In _IEEE Transactions on Big Data_, (Early Access).<br/>\[[DOI](https://doi.org/10.1109/TBDATA.2023.3248650){:target="\_blank"}\] - \[[Preprint](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2023_TBD_Schmedding.pdf){:target="\_blank"}\] - \[[BibTeX](bibtex/schmedding2023epidemic.html){:target="\_blank"}\]
 
+### Conferences
+
+* __Pinciroli, R.__, Aleti A., and Trubiani, C. (2023). "Performance Modeling and Analysis of Design Patterns for Microservice Systems". In _IEEE 20th International Conference on Software Architecture (ICSA 23)_, pp. 1-12.<br/>\[[DOI](404.md){:target="_blank"}\] - \[[PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2023_ICSA_Pinciroli.pdf){:target="_blank"}\] - \[[BibTeX](bibtex/pinciroli2023performance_modeling.html){:target="_blank"}\]
+
 
 ## 2022
 
@@ -47,9 +51,10 @@ author_profile: true
 * __Pinciroli, R.__, Yang, L., Alter, J., and Smirni, E. (2021). "Lifespan and Failures of SSDs and HDDs: Similarities, Differences, and Prediction Models". In _IEEE Transactions on Dependable and Secure Computing_, (Early Access).<br/>\[[DOI](https://doi.org/10.1109/TDSC.2021.3131571){:target="\_blank"}\] - \[[Preprint](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2021_TDSC_Pinciroli.pdf){:target="\_blank"}\] - \[[BibTeX](https://dblp.uni-trier.de/rec/journals/tdsc/PinciroliYAS23.html?view=bibtex){:target="\_blank"}\]
 
 ### Conferences
-* __Pinciroli, R.__, Smith, C. U., and Trubiani, C. (2021). "QN-based Modeling and Analysis of Software Performance Antipatterns for Cyber-Physical Systems". In _ACM/SPEC International Conference on Performance Engineering (ICPE 21)_, pp. 93-104.<br/>\[[DOI](https://dx.doi.org/10.1145/3427921.3450251){:target="_blank"}\] - \[[PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2021_ICPE_Pinciroli.pdf){:target="_blank"}\] - \[[BibTeX](https://dblp.uni-trier.de/rec/conf/wosp/PinciroliST21.html?view=bibtex){:target="_blank"}\]
 
 * __Pinciroli, R.__, and Trubiani, C. (2021). "Model-based Performance Analysis for Architecting Cyber-Physical Dynamic Spaces". In _IEEE 18th International Conference on Software Architecture (ICSA 21)_, pp. 104-114.<br/>\[[DOI](https://dx.doi.org/10.1109/ICSA51549.2021.00018){:target="_blank"}\] - \[[PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2021_ICSA_Pinciroli.pdf){:target="_blank"}\] - \[[BibTeX](https://dblp.uni-trier.de/rec/conf/icsa/PinciroliT21.html?view=bibtex){:target="_blank"}\]
+
+* __Pinciroli, R.__, Smith, C. U., and Trubiani, C. (2021). "QN-based Modeling and Analysis of Software Performance Antipatterns for Cyber-Physical Systems". In _ACM/SPEC International Conference on Performance Engineering (ICPE 21)_, pp. 93-104.<br/>\[[DOI](https://dx.doi.org/10.1145/3427921.3450251){:target="_blank"}\] - \[[PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2021_ICPE_Pinciroli.pdf){:target="_blank"}\] - \[[BibTeX](https://dblp.uni-trier.de/rec/conf/wosp/PinciroliST21.html?view=bibtex){:target="_blank"}\]
 
 
 
