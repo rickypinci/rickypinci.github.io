@@ -29,9 +29,9 @@ author_profile: true
 
 ### Conferences
 
-* __Pinciroli, R.__, Aleti A., and Trubiani, C. (2023). "Performance Modeling and Analysis of Design Patterns for Microservice Systems". In _IEEE 20th International Conference on Software Architecture (ICSA 23)_, pp. 1-12.<br/>\[[DOI](404.md){:target="_blank"}\] - \[[PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2023_ICSA_Pinciroli.pdf){:target="_blank"}\] - \[[BibTeX](bibtex/pinciroli2023performance_modeling.html){:target="_blank"}\]
+* __Pinciroli, R.__, Aleti A., and Trubiani, C. (2023). "Performance Modeling and Analysis of Design Patterns for Microservice Systems". In _IEEE 20th International Conference on Software Architecture (ICSA 23)_, pp. 1-12.<br/>\[[DOI](404.md){:target="_blank"}\] - \[[Preprint](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2023_ICSA_Pinciroli.pdf){:target="_blank"}\] - \[[BibTeX](bibtex/pinciroli2023performance_modeling.html){:target="_blank"}\]
 
-* __Pinciroli, R.__, Mirandola R., and Trubiani, C. (2023). "Modular Quality-of-Service Analysis of Software Design Models for Cyber-Physical Systems". In _34th International Conference on Advanced Information Systems Engineering (CAiSE 23)_, pp. 1-16.<br/>\[[DOI](404.md){:target="_blank"}\] - \[[PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2023_CAiSE_Pinciroli.pdf){:target="_blank"}\] - \[[BibTeX](bibtex/pinciroli2023modular.html){:target="_blank"}\]
+* __Pinciroli, R.__, Mirandola R., and Trubiani, C. (2023). "Modular Quality-of-Service Analysis of Software Design Models for Cyber-Physical Systems". In _34th International Conference on Advanced Information Systems Engineering (CAiSE 23)_, pp. 1-16.<br/>\[[DOI](404.md){:target="_blank"}\] - \[[Preprint](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2023_CAiSE_Pinciroli.pdf){:target="_blank"}\] - \[[BibTeX](bibtex/pinciroli2023modular.html){:target="_blank"}\]
 
 
 ## 2022
@@ -40,17 +40,17 @@ author_profile: true
 
 * Ali, A., __Pinciroli, R.__, Yan, F., and Smirni, E. (2022). "Optimizing Inference Serving on Serverless Platforms". In _International Conference on Very Large Data Bases (VLDB 22)_.<br/>\[[DOI](https://doi.org/10.14778/3547305.3547313){:target="\_blank"}\] - \[[PDF](https://www.vldb.org/pvldb/vol15/p2071-ali.pdf){:target="\_blank"}\] - \[[BibTeX](https://dblp.uni-trier.de/rec/journals/pvldb/AliPYS22.html?view=bibtex){:target="\_blank"}\]
 
-* Schmedding, A., Yang, L., __Pinciroli, R.__, and Smirni, E. (2022). "GeoSpread: an Epidemic Spread Modeling Tool for COVID-19 Using Mobility Data". In _Conference on Information Technology for Social Good (GoodIT 22)_.<br/>\[[DOI](https://doi.org/10.1145/3524458.3547257){:target="\_blank"}\] - \[[PDF](https://dl.acm.org/doi/pdf/10.1145/3524458.3547257){:target="_blank"}\] - \[[BibTeX](https://dblp.uni-trier.de/rec/conf/goodit/SchmeddingYPS22.html?view=bibtex){:target="\_blank"}\]
+* Schmedding, A., Yang, L., __Pinciroli, R.__, and Smirni, E. (2022). "GeoSpread: an Epidemic Spread Modeling Tool for COVID-19 Using Mobility Data". In _Conference on Information Technology for Social Good (GoodIT 22)_, pp. 125-131.<br/>\[[DOI](https://doi.org/10.1145/3524458.3547257){:target="\_blank"}\] - \[[PDF](https://dl.acm.org/doi/pdf/10.1145/3524458.3547257){:target="_blank"}\] - \[[BibTeX](https://dblp.uni-trier.de/rec/conf/goodit/SchmeddingYPS22.html?view=bibtex){:target="\_blank"}\]
 
-* Murgia, M., __Pinciroli, R.__, Trubiani, C., and Tuosto, E. (2022). "On Model-based Performance Analysis of Collective Adaptive Systems". In _International Symposium on Leveraging Applications of Formal Methods (ISoLA 22)_.<br/>\[[DOI](https://doi.org/10.1007/978-3-031-19759-8_17){:target="\_blank"}\] - \[[Preprint](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2022_ISoLA_Murgia.pdf){:target="_blank"}\] - \[[BibTex](https://dblp.uni-trier.de/rec/conf/isola/MurgiaPTT22.html?view=bibtex){:target="\_blank"}\]
+* Murgia, M., __Pinciroli, R.__, Trubiani, C., and Tuosto, E. (2022). "On Model-based Performance Analysis of Collective Adaptive Systems". In _International Symposium on Leveraging Applications of Formal Methods (ISoLA 22)_, pp. 266-282.<br/>\[[DOI](https://doi.org/10.1007/978-3-031-19759-8_17){:target="\_blank"}\] - \[[PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2022_ISoLA_Murgia.pdf){:target="_blank"}\] - \[[BibTex](https://dblp.uni-trier.de/rec/conf/isola/MurgiaPTT22.html?view=bibtex){:target="\_blank"}\]
 
-* __Pinciroli, R.__, Yang, L., Alter, J., and Smirni, E. (2022). "Machine Learning Models for SSD and HDD Reliability Prediction". In _Annual Reliability and Maintainability Symposium (RAMS 22)_.<br/>\[[DOI](https://doi.org/10.1109/RAMS51457.2022.9893942){:target="\_blank"}\] - \[[BibTeX](bibtex/pinciroli2022machine.html){:target="\_blank"}\]
+* __Pinciroli, R.__, Yang, L., Alter, J., and Smirni, E. (2022). "Machine Learning Models for SSD and HDD Reliability Prediction". In _Annual Reliability and Maintainability Symposium (RAMS 22)_, pp. 1-7.<br/>\[[DOI](https://doi.org/10.1109/RAMS51457.2022.9893942){:target="\_blank"}\] - \[[BibTeX](bibtex/pinciroli2022machine.html){:target="\_blank"}\]
 
 ## 2021
 
 ### Journals
 
-* __Pinciroli, R.__, Yang, L., Alter, J., and Smirni, E. (2021). "Lifespan and Failures of SSDs and HDDs: Similarities, Differences, and Prediction Models". In _IEEE Transactions on Dependable and Secure Computing_, (Early Access).<br/>\[[DOI](https://doi.org/10.1109/TDSC.2021.3131571){:target="\_blank"}\] - \[[Preprint](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2021_TDSC_Pinciroli.pdf){:target="\_blank"}\] - \[[BibTeX](https://dblp.uni-trier.de/rec/journals/tdsc/PinciroliYAS23.html?view=bibtex){:target="\_blank"}\]
+* __Pinciroli, R.__, Yang, L., Alter, J., and Smirni, E. (2021). "Lifespan and Failures of SSDs and HDDs: Similarities, Differences, and Prediction Models". In _IEEE Transactions on Dependable and Secure Computing_, 20(1), pp. 256-272.<br/>\[[DOI](https://doi.org/10.1109/TDSC.2021.3131571){:target="\_blank"}\] - \[[PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2021_TDSC_Pinciroli.pdf){:target="\_blank"}\] - \[[BibTeX](https://dblp.uni-trier.de/rec/journals/tdsc/PinciroliYAS23.html?view=bibtex){:target="\_blank"}\]
 
 ### Conferences
 
