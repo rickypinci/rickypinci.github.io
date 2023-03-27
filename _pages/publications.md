@@ -31,6 +31,8 @@ author_profile: true
 
 * __Pinciroli, R.__, Aleti A., and Trubiani, C. (2023). "Performance Modeling and Analysis of Design Patterns for Microservice Systems". In _IEEE 20th International Conference on Software Architecture (ICSA 23)_, pp. 1-12.<br/>\[[DOI](404.md){:target="_blank"}\] - \[[PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2023_ICSA_Pinciroli.pdf){:target="_blank"}\] - \[[BibTeX](bibtex/pinciroli2023performance_modeling.html){:target="_blank"}\]
 
+* __Pinciroli, R.__, Mirandola R., and Trubiani, C. (2023). "Modular Quality-of-Service Analysis of Software Design Models for Cyber-Physical Systems". In _34th International Conference on Advanced Information Systems Engineering (CAiSE 23)_, pp. 1-16.<br/>\[[DOI](404.md){:target="_blank"}\] - \[[PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2023_CAiSE_Pinciroli.pdf){:target="_blank"}\] - \[[BibTeX](bibtex/pinciroli2023modular.html){:target="_blank"}\]
+
 
 ## 2022
 
