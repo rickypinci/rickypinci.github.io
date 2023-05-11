@@ -58,6 +58,9 @@
       {% if author.scopus %}
         <li><a href="{{ author.scopus }}" target="_blank"><i class="ai ai-scopus ai-fw" aria-hidden="true"></i> Scopus</a></li>
       {% endif %}
+      {% if author.semanticscholar %}
+        <li><a href="{{ author.semanticscholar }}" target="_blank"><i class="ai ai-semantic-scholar ai-fw" aria-hidden="true"></i> Semantic Scholar</a></li>
+      {% endif %}
 <!--      {% if author.keybase %}-->
 <!--        <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>-->
 <!--      {% endif %}-->
