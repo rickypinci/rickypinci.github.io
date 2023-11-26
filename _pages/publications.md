@@ -27,6 +27,10 @@ author_profile: true
 
 * Schmedding, A., __Pinciroli, R.__, Yang, L., and Smirni, E. (2023). "Epidemic Spread Modeling for COVID-19 Using Cross-fertilization of Mobility Data". In _IEEE Transactions on Big Data_, (Early Access).<br/>\[[DOI](https://doi.org/10.1109/TBDATA.2023.3248650){:target="\_blank"}\] - \[[Preprint](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2023_TBD_Schmedding.pdf){:target="\_blank"}\] - \[[BibTeX](bibtex/schmedding2023epidemic.html){:target="\_blank"}\]
 
+* Murgia, M., __Pinciroli, R.__, Trubiani, C., and Tuosto, E. (2023). "Comparing Performance Abstractions for Collective Adaptive Systems". In _International Journal on Software Tools for Technology Transfer_.
+
+* __Pinciroli, R.__, Smith, C., and Trubiani, C. (2023). "Modeling More Software Performance Antipatterns in Cyber-Physical Systems". In _Software and Systems Modeling_, (To Appear).
+
 ### Conferences
 
 * __Pinciroli, R.__, Aleti A., and Trubiani, C. (2023). "Performance Modeling and Analysis of Design Patterns for Microservice Systems". In _IEEE 20th International Conference on Software Architecture (ICSA 23)_, pp. 35-46. <br/>\[[DOI](https://doi.org/10.1109/ICSA56044.2023.00012){:target="_blank"}\] - \[[PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2023_ICSA_Pinciroli.pdf){:target="_blank"}\] - \[[BibTeX](https://dblp.uni-trier.de/rec/conf/icsa/PinciroliAT23.html?view=bibtex){:target="_blank"}\]
