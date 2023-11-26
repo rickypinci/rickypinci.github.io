@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Riccardo Pinciroli"
   avatar           : "aboutPic.png"
-  bio              : "I am a Postdoc Fellow at the Gran Sasso Science Institute."
-  location         : "Via M. Iacobucci 2<br/>67100, L'Aquila (AQ), Italy"
+  bio              : "I am a Data Scientist at Zimmer Biomet."
+  location         : 
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.it/citations?user=C-QlkhQAAAAJ&hl=it&authuser=1"
