@@ -17,19 +17,35 @@ author_profile: true
 <!--Citation style: APA-->
 <!--<br/>\[[DOI](){:target="_blank"}\] - \[[PDF](){:target="_blank"}\] - \[[BibTeX](){:target="_blank"}\]-->
 
+## 2025
+
+### Conferences
+
+* Compagnucci, I., __Pinciroli, R.__, and Trubiani, C. (2025). "Performance Analysis of Architectural Patterns for Federated Learning Systems". In _IEEE 22nd International Conference on Software Architecture (ICSA 25)_, pp. 289-300.<br/>\[[DOI](https://doi.org/10.1109/ICSA65012.2025.00036){:target="\_blank"}\] - \[[Preprint](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2025_ICSA_Compagnucci.pdf){:target="\_blank"}\] - \[[BibTeX](https://dblp.org/rec/conf/icsa/CompagnucciPT25.html?view=bibtex){:target="\_blank"}\]
+
+* Sun, B., __Pinciroli, R.__, Casale, G., and Smirni, E., (2025). "DeepBAT: Performance and Cost Optimization of Serverless Inference Using Transformers". In _IEEE international parallel and distributed processing symposium (IPDPS 25)_. To Appear.
+
+## 2024
+
+### Journals
+
+* Quattrocchi, G., Incerto, E., __Pinciroli, R.__, Trubiani, C., and Baresi, L. (2024). "Autoscaling solutions for cloud applications under dynamic workloads". In _IEEE Transactions on Service Computing_, 17(3), pp. 804-820.<br/>\[[DOI](https://doi.org/10.1109/TSC.2024.3354062){:target="\_blank"}\] - \[[PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2024_TSC_Quattrocchi.pdf){:target="\_blank"}\] - \[[BibTeX](https://dblp.org/rec/journals/tsc/QuattrocchiIPTB24.html?view=bibtex){:target="\_blank"}\]
+
+* dos Santos, L. B. R., de Souza, É. F., Trubiani, C., __Pinciroli, R.__, & Vijaykumar, N. L. (2024). "Performance regression testing initiatives: A systematic mapping". In _Information and Software Technology_, 107641.<br/>\[[DOI](https://doi.org/10.1016/j.infsof.2024.107641){:target="\_blank"}\] - \[[Preprint](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2024_IST_dosSantos.pdf){:target="\_blank"}\] - \[[BibTeX](https://dblp.org/rec/journals/infsof/SantosSETPV25.html?view=bibtex){:target="\_blank"}\]
+
 ## 2023
 
 ### Journals
 
-* __Pinciroli, R.__ and Trubiani, C. (2023). "Performance Analysis of Fault-Tolerant Multi-Agent Coordination Mechanisms". In _IEEE Transactions on Industrial Informatics_, (Early Access).<br/>\[[DOI](https://doi.org/10.1109/TII.2023.3234606){:target="\_blank"}\] - \[[Preprint](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2023_TII_Pinciroli.pdf){:target="\_blank"}\] - \[[BibTeX](bibtex/pinciroli2023performance.html){:target="\_blank"}\]
+* __Pinciroli, R.__ and Trubiani, C. (2023). "Performance Analysis of Fault-Tolerant Multi-Agent Coordination Mechanisms". In _IEEE Transactions on Industrial Informatics_, 19(9), pp. 9821-9832.<br/>\[[DOI](https://doi.org/10.1109/TII.2023.3234606){:target="\_blank"}\] - \[[Preprint](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2023_TII_Pinciroli.pdf){:target="\_blank"}\] - \[[BibTeX](bhttps://dblp.org/rec/journals/tii/PinciroliT23.html?view=bibtex){:target="\_blank"}\]
 
 * Trubiani, C., __Pinciroli, R.__, Biaggi, A., and Fontana, F. A. (2023). "Automated Detection of Software Performance Antipatterns in Java-Based Applications". In _IEEE Transactions on Software Engineering_, (Early Access).<br/>\[[DOI](https://doi.org/10.1109/TSE.2023.3234321){:target="\_blank"}\] - \[[PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2023_TSE_Trubiani.pdf){:target="\_blank"}\] - \[[BibTeX](https://dblp.uni-trier.de/rec/journals/tse/TrubianiPBF23.html?view=bibtex){:target="\_blank"}\]
 
 * Schmedding, A., __Pinciroli, R.__, Yang, L., and Smirni, E. (2023). "Epidemic Spread Modeling for COVID-19 Using Cross-fertilization of Mobility Data". In _IEEE Transactions on Big Data_, (Early Access).<br/>\[[DOI](https://doi.org/10.1109/TBDATA.2023.3248650){:target="\_blank"}\] - \[[Preprint](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2023_TBD_Schmedding.pdf){:target="\_blank"}\] - \[[BibTeX](bibtex/schmedding2023epidemic.html){:target="\_blank"}\]
 
-* Murgia, M., __Pinciroli, R.__, Trubiani, C., and Tuosto, E. (2023). "Comparing Performance Abstractions for Collective Adaptive Systems". In _International Journal on Software Tools for Technology Transfer_.
+* __Pinciroli, R.__, Smith, C., and Trubiani, C. (2024). "Modeling More Software Performance Antipatterns in Cyber-Physical Systems". In _Software and Systems Modeling_, 23(4), pp. 1003-1023.<br/>\[[DOI](https://doi.org/10.1007/s10270-023-01137-x){:target="\_blank"}\] - \[[PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2023_SoSyM_Pinciroli.pdf){:target="\_blank"}\] - \[[BibTeX](https://dblp.org/rec/journals/sosym/PinciroliST24.html?view=bibtex){:target="\_blank"}\]
 
-* __Pinciroli, R.__, Smith, C., and Trubiani, C. (2023). "Modeling More Software Performance Antipatterns in Cyber-Physical Systems". In _Software and Systems Modeling_, (To Appear).
+* Murgia, M., __Pinciroli, R.__, Trubiani, C., and Tuosto, E. (2023). "Comparing Performance Abstractions for Collective Adaptive Systems". In _International Journal on Software Tools for Technology Transfer_, pp. 785-798.<br/>\[[DOI](2023_JSTTT_Murgia.pdf){:target="\_blank"}\] - \[[PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2023_JSTTT_Murgia.pdf){:target="\_blank"}\] - \[[BibTeX](https://dblp.org/rec/journals/sttt/MurgiaPTT23.html?view=bibtex){:target="\_blank"}\]
 
 ### Conferences
 
