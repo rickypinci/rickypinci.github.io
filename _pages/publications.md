@@ -23,7 +23,7 @@ author_profile: true
 
 * Compagnucci, I., __Pinciroli, R.__, and Trubiani, C. (2025). "Performance Analysis of Architectural Patterns for Federated Learning Systems". In _IEEE 22nd International Conference on Software Architecture (ICSA 25)_, pp. 289-300.<br/>\[[DOI](https://doi.org/10.1109/ICSA65012.2025.00036){:target="\_blank"}\] - \[[Preprint](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2025_ICSA_Compagnucci.pdf){:target="\_blank"}\] - \[[BibTeX](https://dblp.org/rec/conf/icsa/CompagnucciPT25.html?view=bibtex){:target="\_blank"}\]
 
-* Sun, B., __Pinciroli, R.__, Casale, G., and Smirni, E., (2025). "DeepBAT: Performance and Cost Optimization of Serverless Inference Using Transformers". In _IEEE international parallel and distributed processing symposium (IPDPS 25)_. To Appear.
+* Sun, B., __Pinciroli, R.__, Casale, G., and Smirni, E., (2025). "DeepBAT: Performance and Cost Optimization of Serverless Inference Using Transformers". In _IEEE international parallel and distributed processing symposium (IPDPS 25)_. pp. 335-346.<br/>\[[DOI](https://doi.org/10.1109/IPDPS64566.2025.00037){:target="\_blank"}\] - \[[PDF](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2025_IPDPS_Pinciroli.pdf){:target="\_blank"}\] - \[[BibTeX](https://dblp.org/rec/conf/ipps/SunPCS25.html?view=bibtex){:target="\_blank"}\]
 
 ## 2024
 
