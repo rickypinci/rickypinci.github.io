@@ -21,7 +21,7 @@ author_profile: true
 
 ### Journals
 
-* Compagnucci, I., __Pinciroli, R.__, and Trubiani, C. (2026). "Experimenting Architectural Patterns in Federated Learning Systems". In _Journal of Systems and Software_, 232 (2026) 112655.<br/>\[[DOI](https://doi.org/10.1016/j.jss.2025.112655){:target="\_blank"}\] - \[[Preprint](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2026_JSS_Compagnucci.pdf){:target="\_blank"}\] - \[[BibTeX](){:target="\_blank"}\]
+* Compagnucci, I., __Pinciroli, R.__, and Trubiani, C. (2026). "Experimenting Architectural Patterns in Federated Learning Systems". In _Journal of Systems and Software_, 232 (2026) 112655.<br/>\[[DOI](https://doi.org/10.1016/j.jss.2025.112655){:target="\_blank"}\] - \[[Preprint](https://raw.githubusercontent.com/rickypinci/rickypinci.github.io/master/files/papers/2026_JSS_Compagnucci.pdf){:target="\_blank"}\] - \[[BibTeX](https://dblp.org/rec/journals/jss/CompagnucciPT26.html?view=bibtex){:target="\_blank"}\]
 
 ## 2025
 
